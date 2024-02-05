@@ -1,0 +1,44 @@
+html {
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    line-height: 2;
+}
+
+
+h1, h2, h3 {
+    font-family: "Playfair", serif;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    max-width: 100%;
+    /* display: block; */
+}
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nombre-sitio {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.nombre-sitio span {
+    color: rgb(132, 160, 210);
+}
